@@ -1,0 +1,34 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  color: #FFFFFF;
+  height: 209px;
+  width: 100%;
+  gap: 28.56px;
+}
+.footer .logo-footer {
+  width: 122px;
+  height: 39.4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer .logo-footer img {
+  width: 100%;
+  height: auto;
+  filter: brightness(0) invert(1);
+}
+
+@media screen and (max-width: 380px) {
+  .footer {
+    gap: 15px;
+  }
+  .footer p {
+    text-align: center;
+    width: 133px;
+    font-size: 12px;
+  }
+}/*# sourceMappingURL=footer.css.map */
