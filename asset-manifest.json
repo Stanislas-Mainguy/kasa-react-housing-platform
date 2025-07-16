@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/OpenClassrooms_Projet8/static/css/main.d4aa0cb2.css",
-    "main.js": "/OpenClassrooms_Projet8/static/js/main.120c9898.js",
-    "static/media/aboutPictureBanner.png": "/OpenClassrooms_Projet8/static/media/aboutPictureBanner.796d007cebdd47cc489b.png",
-    "static/media/bannerPicture.png": "/OpenClassrooms_Projet8/static/media/bannerPicture.0f820b85d9a6a7e177b3.png",
-    "static/media/logo-kasa.svg": "/OpenClassrooms_Projet8/static/media/logo-kasa.cb30ed288734e88b410180a8bf9c3872.svg",
-    "index.html": "/OpenClassrooms_Projet8/index.html",
-    "static/media/arrow-about.svg": "/OpenClassrooms_Projet8/static/media/arrow-about.d928611bc90eddc723a6afedb7a0bdfe.svg",
-    "static/media/carousel-arrow-right.svg": "/OpenClassrooms_Projet8/static/media/carousel-arrow-right.0fe895dfe4932e195f8e42bb884a7599.svg",
-    "static/media/carousel-arrow-left.svg": "/OpenClassrooms_Projet8/static/media/carousel-arrow-left.a571ab7381a0cc6ec485d249322a1f03.svg",
-    "main.d4aa0cb2.css.map": "/OpenClassrooms_Projet8/static/css/main.d4aa0cb2.css.map",
-    "main.120c9898.js.map": "/OpenClassrooms_Projet8/static/js/main.120c9898.js.map"
+    "main.css": "/kasa-react-housing-platform/static/css/main.c15b8d63.css",
+    "main.js": "/kasa-react-housing-platform/static/js/main.7c7c5bfa.js",
+    "static/media/aboutPictureBanner.png": "/kasa-react-housing-platform/static/media/aboutPictureBanner.796d007cebdd47cc489b.png",
+    "static/media/bannerPicture.png": "/kasa-react-housing-platform/static/media/bannerPicture.0f820b85d9a6a7e177b3.png",
+    "static/media/logo-kasa.svg": "/kasa-react-housing-platform/static/media/logo-kasa.9e40e09565ee2f05e03d5c08940a60cb.svg",
+    "index.html": "/kasa-react-housing-platform/index.html",
+    "static/media/arrow-about.svg": "/kasa-react-housing-platform/static/media/arrow-about.a8b9b5ca78cd5124727100163f345f20.svg",
+    "static/media/carousel-arrow-right.svg": "/kasa-react-housing-platform/static/media/carousel-arrow-right.dfebbffec6d3865e8655ca0c81ffd33c.svg",
+    "static/media/carousel-arrow-left.svg": "/kasa-react-housing-platform/static/media/carousel-arrow-left.f3f0bb2c041648c34b954a31fd36c006.svg",
+    "main.c15b8d63.css.map": "/kasa-react-housing-platform/static/css/main.c15b8d63.css.map",
+    "main.7c7c5bfa.js.map": "/kasa-react-housing-platform/static/js/main.7c7c5bfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4aa0cb2.css",
-    "static/js/main.120c9898.js"
+    "static/css/main.c15b8d63.css",
+    "static/js/main.7c7c5bfa.js"
   ]
 }
