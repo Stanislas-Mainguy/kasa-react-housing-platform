@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kasa-react-housing-platform/static/css/main.c15b8d63.css",
+    "main.js": "/kasa-react-housing-platform/static/js/main.7c7c5bfa.js",
+    "static/media/aboutPictureBanner.png": "/kasa-react-housing-platform/static/media/aboutPictureBanner.796d007cebdd47cc489b.png",
+    "static/media/bannerPicture.png": "/kasa-react-housing-platform/static/media/bannerPicture.0f820b85d9a6a7e177b3.png",
+    "static/media/logo-kasa.svg": "/kasa-react-housing-platform/static/media/logo-kasa.9e40e09565ee2f05e03d5c08940a60cb.svg",
+    "index.html": "/kasa-react-housing-platform/index.html",
+    "static/media/arrow-about.svg": "/kasa-react-housing-platform/static/media/arrow-about.a8b9b5ca78cd5124727100163f345f20.svg",
+    "static/media/carousel-arrow-right.svg": "/kasa-react-housing-platform/static/media/carousel-arrow-right.dfebbffec6d3865e8655ca0c81ffd33c.svg",
+    "static/media/carousel-arrow-left.svg": "/kasa-react-housing-platform/static/media/carousel-arrow-left.f3f0bb2c041648c34b954a31fd36c006.svg",
+    "main.c15b8d63.css.map": "/kasa-react-housing-platform/static/css/main.c15b8d63.css.map",
+    "main.7c7c5bfa.js.map": "/kasa-react-housing-platform/static/js/main.7c7c5bfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c15b8d63.css",
+    "static/js/main.7c7c5bfa.js"
+  ]
+}
